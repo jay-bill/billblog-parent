@@ -175,11 +175,7 @@
 			<version>${commons-fileupload.version}</version>
 		</dependency>
 		<!-- Redis客户端 -->
-		<dependency>
-			<groupId>redis.clients</groupId>
-			<artifactId>jedis</artifactId>
-			<version>${jedis.version}</version>
-		</dependency>
+		
 		<!-- solr客户端 -->
 		<dependency>
 			<groupId>org.apache.solr</groupId>
